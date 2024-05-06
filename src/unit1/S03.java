@@ -1,3 +1,5 @@
+package unit1;
+
 // Homework for the first unit
 // (Display a pattern) Write a program that displays the following pattern
 public class S03 {

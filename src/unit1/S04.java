@@ -1,3 +1,5 @@
+package unit1;
+
 // Homework for the first unit
 // (Print a table) Write a program that displays the following table
 public class S04 {

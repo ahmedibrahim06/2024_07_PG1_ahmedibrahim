@@ -1,3 +1,5 @@
+package unit1;
+
 // Homework for the first unit
 // (Compute expressions) Write a program that displays the result of
 public class S05 {
