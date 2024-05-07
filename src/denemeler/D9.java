@@ -10,13 +10,9 @@ public class D9 {
         if (i < 15) {
             System.out.println("i 30 dan küçüktür");
         }
-        else if (i < 16) {
             System.out.println("i 16 dan küçüktür");
         }
-         {
-            System.out.println("i = 15");
 
 
         }
     }
-}
