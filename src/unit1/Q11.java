@@ -5,7 +5,7 @@ package unit1;
  * Gelecek beş yıl için, her bir yılın nüfus tahminlerini gösterecek bir program yazınız.
  * Şu an nüfusun 312,032,486 olduğunu ve bir yılın 365 gün olduğunu varsayalım.
  */
-public class S11 {
+public class Q11 {
     public static void main(String[] args) {
         double dogum = 31536000 / 7.0;              // bir gün 86400 saniyedir ve 365 gün 31.557.600 saniye eder.
         double olum = 31536000 / 13.0;

@@ -2,7 +2,7 @@ package unit1;
 
 // Homework for the first unit
 // (Print a table) Write a program that displays the following table
-public class S04 {
+public class Q04 {
     public static void main(String[] args) {
         System.out.println("a       a^2        a^3");
         System.out.println("1       1          1  ");

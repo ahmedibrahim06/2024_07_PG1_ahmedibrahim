@@ -3,7 +3,7 @@
  * Gelecek beş yıl için, her bir yılın nüfus tahminlerini gösterecek bir program yazınız.
  * Şu an nüfusun 312,032,486 olduğunu ve bir yılın 365 gün olduğunu varsayalım.
  */
-package unit1;public class S111 {
+package unit1;public class Q111 {
     public static void main(String[] args) {
         double yildaArtis = (((60*60*24*365) / 7.0) + ((60*60*24*365) / 45.0)) - ((60*60*24*365) / 13.0);
         double suanki = 312032486;

@@ -5,7 +5,7 @@ package unit1;
  * Ortalama hızı mil/saat cinsinden gösterecek bir program yazınız.
  *  ( 1 mil, 1.6 kilometredir.)
  */
-public class S10 {
+public class Q10 {
     public static void main(String[] args) {
         double mil = 14 / 1.6;
         double saat = 45.5 / 60;

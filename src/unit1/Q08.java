@@ -5,7 +5,7 @@ package unit1;
  *çevre = 2 * yarıçap * pi
  * alan = yarıçap * yarıçap * pi
  */
-public class S08 {
+public class Q08 {
     public static void main(String[] args) {
      double cevre = 2 * 5.5 * 3.14;
      double alan = 5.5 * 5.5 * 3.14;

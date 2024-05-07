@@ -2,7 +2,7 @@ package unit1;
 
 // Homework for the first unit
 // (Display a pattern) Write a program that displays the following pattern
-public class S03 {
+public class Q03 {
     public static void main(String[] args) {
         System.out.println("     j      A     V       V     A");
         System.out.println("     j     A A     V     V     A A");
