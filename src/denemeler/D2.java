@@ -6,6 +6,6 @@ public class D2 {
         int no1 = 58;
 
         //ön arttırma ve azaltma operatörü:
-        System.out.println("(A)"+ no1 + "(++A)" +(++no1));
+        System.out.println("  (A)= "+ no1 + "\n(++A)= " +(++no1));
     }
 }

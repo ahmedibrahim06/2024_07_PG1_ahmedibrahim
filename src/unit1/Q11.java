@@ -19,3 +19,12 @@ public class Q11 {
         System.out.println("5. yılın nüfusu = " + ((artis*5) + suanki));
     }
 }
+/**
+ *    double yildaArtis = (((60*60*24*365) / 7.0) + ((60*60*24*365) / 45.0)) - ((60*60*24*365) / 13.0);
+ *         double suanki = 312032486;
+ *         System.out.println("1. yılın nüfusu = " + (yildaArtis + suanki));
+ *         System.out.println("2. yılın nüfusu = " + ((yildaArtis*2) + suanki));
+ *         System.out.println("3. yılın nüfusu = " + ((yildaArtis*3) + suanki));
+ *         System.out.println("4. yılın nüfusu = " + ((yildaArtis*4) + suanki));
+ *         System.out.println("5. yılın nüfusu = " + ((yildaArtis*5) + suanki));
+ */

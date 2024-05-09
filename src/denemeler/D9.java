@@ -1,6 +1,6 @@
 public class D9 {
     public static void main(String[] args) {
-        int i = 15;
+        int i = 14;
         if (i == 10) {
             System.out.println("i 25 ten farklıdır");
         }
