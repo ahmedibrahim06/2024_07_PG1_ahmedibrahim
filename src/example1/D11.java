@@ -1,4 +1,4 @@
-package denemeler;
+package example1;
 // break örneği
 public class D11 {
     public static void main(String[] args) {

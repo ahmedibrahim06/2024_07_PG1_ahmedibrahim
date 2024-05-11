@@ -1,4 +1,4 @@
-package denemeler;
+package example1;
 
 public class D5 {
     public static void main(String[] args) {

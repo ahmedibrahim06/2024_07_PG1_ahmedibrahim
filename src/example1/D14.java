@@ -1,4 +1,4 @@
-package denemeler;
+package example1;
 //continue örneği
 public class D14 {
     public static void main(String[] args) {

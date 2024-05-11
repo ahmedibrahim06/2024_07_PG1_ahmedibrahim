@@ -1,4 +1,4 @@
-package denemeler;
+package example1;
 
 //switch case örnek çözümü
 
