@@ -1,3 +1,5 @@
+package example1;
+
 public class D9 {
     public static void main(String[] args) {
         int i = 14;
@@ -15,4 +17,3 @@ public class D9 {
 
 
         }
-    }
