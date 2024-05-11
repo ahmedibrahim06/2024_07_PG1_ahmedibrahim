@@ -1,6 +1,6 @@
-package unit2;
+package sinifornekleri;
 
-public class Q01 {
+public class A1 {
     public static void main(String[] args) {
 
     }
