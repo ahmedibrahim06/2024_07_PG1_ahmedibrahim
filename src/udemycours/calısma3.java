@@ -10,7 +10,11 @@ public class calısma3 {
         double sayi2= sayi.nextDouble();
         double sayi3= sayi.nextDouble();
 
+
+        double toplam = (sayi1 + sayi2 + sayi3) ;
+        System.out.println("girmiş olduğunuz 3 sayınıın toplamı = " + toplam);
         double ortalama = (sayi1 + sayi2 + sayi3) / 3 ;
         System.out.println("girmiş olduğunuz 3 sayının ortalaması = " + ortalama);
+
     }
 }
